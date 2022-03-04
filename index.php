@@ -58,11 +58,7 @@ $("#request").dblclick(function(){
             }, 9055);
         }
     });
-})
-
-
-
-
+});
 </script>
 </body>
 </html>
